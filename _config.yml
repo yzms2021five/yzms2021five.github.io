@@ -1,16 +1,16 @@
 # Site settings
 title: 鄞州中学2021级5班
 description: 永远的五班
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "/#" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+username: 充满魔力的五班
+user_description: 这里是活力五班的聚集地，有着一群奥林匹克体育、学科创新班走来的学生，他们是各个领域的天才。
+user_title: Dev BY MoRan
+email: frankhikele@gmail.com
+twitter_username: yzmsfive
+github_username:  yzmsfive
 gplus_username:  lorem_ipsum
 
 # Google-analytics
